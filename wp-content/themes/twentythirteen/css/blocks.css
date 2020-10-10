@@ -561,7 +561,7 @@ body:not(.sidebar) .wp-block-table.alignfull {
 }
 
 .wp-block-latest-comments .wp-block-latest-comments__comment {
-	background: url(http://medicaledu.github.io/get-info/wp-content/themes/twentythirteen/images/dotted-line.png) repeat-x left top;
+	background: url(https://medicaledu.github.io/get-info/wp-content/themes/twentythirteen/images/dotted-line.png) repeat-x left top;
 	margin-bottom: 0;
 	padding: 24px 0;
 }
